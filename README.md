@@ -83,6 +83,7 @@ The dataset includes Airbnb listing-level information such as:
 - Ratings (Accuracy, Cleanliness, Communication, Location, Value)
 - Superhost status
 
+DOWNLOAD DATASET FROM HERE - https://drive.google.com/drive/folders/1t6txZtCOnhsrmUwPp4x46qFeH6hHqFCU?usp=sharing
 ---
 
 ## 📈 Skills Demonstrated
@@ -100,7 +101,7 @@ The dataset includes Airbnb listing-level information such as:
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file from this repository.
+1. Download the `.pbix` file from this LINK - https://drive.google.com/file/d/1VwbeYgm_a4rPtd7AwRVTtuOoV1PaQ__n/view?usp=sharing.
 2. Open it using Power BI Desktop.
 3. Interact with filters and drill options.
 4. Explore different cities and rating levels.
